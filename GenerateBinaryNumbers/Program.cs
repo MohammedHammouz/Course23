@@ -21,6 +21,7 @@ namespace GenerateBinaryNumbers
                 queue.Enqueue(binary + "0");
                 queue.Enqueue(binary + "1");
             }
+            
         }
         static void Main(string[] args)
         {
